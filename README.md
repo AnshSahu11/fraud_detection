@@ -1,4 +1,4 @@
-### 🛡️ Fraud Detection Using PaySim Dataset
+### 🛡️ Fraud Detection Using Dataset
 
 ## 📌 Overview
 This project tackles the challenge of detecting fraudulent transactions using the PaySim synthetic dataset. It combines rigorous data preprocessing, feature engineering, and machine learning modeling to build a robust fraud detection pipeline. Beyond the code, this project reflects a personal journey of persistence, learning, and growth in the field of data science.
